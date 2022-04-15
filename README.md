@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FacumendezBT
 - 👀 I’m interested in IT technologys
-- 🌱 I’m currently learning Java, HTML, CSS, Bootstrap, Arduino IDE
+- 🌱 I’m currently learning Java, HTML, CSS, Bootstrap, JavaScript and PHP
 
 <!---
 FacumendezBT/FacumendezBT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
